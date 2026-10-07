@@ -52,6 +52,8 @@ One quick tip. If you have an ad blocker or strict privacy browser extension run
 
 ## What Is Unbounce, and Why Do Marketers Love It?
 
+<img width="1164" height="859" alt="unbounce landing page builder tool" src="https://github.com/user-attachments/assets/7afe8355-ea43-4051-aa01-caf0d3b3bfa5" />
+
 If you landed here just for the discount, feel free to grab the link and go. But if you are still deciding whether Unbounce is worth your money, this section is for you.
 
 Unbounce is a popular landing page builder and conversion platform used by over 15,000 businesses worldwide. It was actually the company that pioneered the landing page builder category back in 2009, and it has been refining the craft ever since. Today, it positions itself as more than just a page builder. It is a full conversion platform designed to help you turn more visitors into leads, signups, and sales.
