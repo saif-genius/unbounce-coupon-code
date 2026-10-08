@@ -170,4 +170,4 @@ Remember, there is no coupon code to type in and nothing to redeem manually. Jus
 
 **[Claim Your Exclusive Unbounce Discount, Up to 35% Off](https://unbounce.partnerlinks.io/claim-exclusive-discount)**
 
-Your future landing pages, and your budget, will thank you.
+Your future landing pages and your budget will thank you.
