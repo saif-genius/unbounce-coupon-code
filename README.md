@@ -3,6 +3,7 @@
 
 If you have been shopping around for an **[Unbounce coupon code](https://startupplugs.com/unbounce-coupon-code-get-20-percent-off/)**, here is the short version of the good news. Right now, you can get 20% off for your first 3 months on any monthly plan, which adds up to $150 in savings. Or, if you go with one of the annual plans, you can unlock a 35% discount worth a total of $1,045.80 off your Unbounce subscription. That is not a typo. Over $1,000 in savings just for choosing the annual billing option.
 
+
 So if your only question is "which plan saves me more money," the answer is simple. The annual plan with the 35% discount is the wise decision by a wide margin. You save nearly seven times as much as the monthly plan discount.
 
 The best part? There is no coupon code to copy, paste, or fumble with at checkout. The discount is applied automatically through this exclusive partner link:
