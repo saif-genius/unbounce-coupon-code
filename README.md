@@ -182,32 +182,33 @@ To keep your discount intact, start the 14-day free trial through the [exclusive
 ## Who Might Want to Skip Unbounce
  
 Unbounce is not for everyone. If you only need a simple one-page site with no testing, the starter plan covers the basics. If you want a blog, a store, or a large website, a full website builder is a better fit. Likewise, if your traffic is very low, the advanced testing tools on higher tiers will not have enough data to show clear results. Be honest about your volume before you commit to annual billing.
- 
-## Frequently Asked Questions
- 
+
+## Frequently Asked Questions: Unbounce Coupon Code
+
 **Is there a working Unbounce coupon code right now?**
- 
-Yes. Unbounce offers a 20% discount for the first 3 months on monthly billing and a 35% discount on annual billing. You do not need to type a code. Use the [partner link](https://unbounce.partnerlinks.io/claim-exclusive-discount) and the offer applies.
- 
+
+Yes. Unbounce currently offers two discounts for new customers: 20% off the first 3 months on monthly billing and 35% off on annual billing. No coupon code is required. The discount applies automatically when you sign up through the [partner link](https://unbounce.partnerlinks.io/claim-exclusive-discount), so there is nothing to copy, paste, or enter at checkout. If the discount does not appear in your cart, open the partner link again in a fresh browser window and make sure no other coupon or referral link is overriding it.
+
 **How much can I save with the Unbounce promo code?**
- 
-You can save $150 on the monthly plan and $1,045.80 on the annual plan, based on the Optimize plan. Smaller plans save proportionally less.
- 
-**Is the 35% discount only for annual plans?**
- 
-Yes. The 35% discount applies to annual plans. Monthly billing gets the 20% discount for 3 months.
- 
-**Is the Unbounce discount code available to existing customers?**
- 
-The offer is aimed at new customers and new users. If you already have an account, contact Unbounce support to ask about your options.
- 
+
+On the Optimize plan, you can save $150 on monthly billing (20% off for the first 3 months) and $1,045.80 on annual billing (35% off). Savings on smaller plans are proportionally lower, since the discount is a percentage of the plan price. The annual discount is much larger in total because it applies for the full year, while the monthly discount covers only the first three billing cycles.
+
+**Is the 35% Unbounce discount only for annual plans?**
+
+Yes. The 35% discount applies only to annual billing. Monthly plans get 20% off for the first 3 months instead. If you plan to use Unbounce for 12 months or longer, annual billing gives the larger saving. If you want to test the platform first, monthly billing with the 20% discount keeps your upfront commitment lower.
+
+**Can existing Unbounce customers use the discount code?**
+
+Usually not. The offer is intended for new customers signing up for the first time. If you already have an Unbounce account, contact Unbounce support to ask which discounts or plan options are available to you. Support may be able to suggest an alternative, such as switching to annual billing or a different plan tier, even if the new-customer offer does not apply.
+
 **Is Unbounce a good fit for small businesses?**
- 
-Yes. The starter plan and build plan are priced for small businesses, and the drag-and-drop builder means you do not need a developer. Add the discount, and the entry cost drops further.
- 
-**Do I need a credit card for the free trial?**
- 
-According to the pricing page, you can start free without a credit card.
+
+Yes. Unbounce’s entry-level plans are priced for small businesses, and its drag-and-drop builder lets you create and publish landing pages without a developer. It also includes conversion-focused tools such as templates and A/B testing, which help small teams improve results without extra staff. With the new-customer discount applied, the starting cost drops further, making it easier to test landing pages before scaling your ad spend.
+
+**Does Unbounce require a credit card for the free trial?**
+
+No. According to Unbounce’s pricing page, you can start the free trial without entering a credit card. This lets you build and preview a landing page before deciding on a paid plan. When you are ready to publish on a paid plan, you can use the partner link to apply the new-customer discount.
+
  
 ## Final Thoughts on the Unbounce Coupon Code
  
