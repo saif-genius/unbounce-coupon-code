@@ -6,7 +6,6 @@ Here is the quick version. Unbounce offers a 20% discount for the first 3 months
  
 So which option saves more money? The annual plan, by a wide margin. If you already know you will use the platform for a full year, paying annually is the wiser decision.
 
- 
 You also don't have to copy, paste, or fumble with anything at checkout. The discount is applied through this exclusive partner link:
  
 **[Claim Your Exclusive Unbounce Discount Here](https://unbounce.partnerlinks.io/claim-exclusive-discount)**
