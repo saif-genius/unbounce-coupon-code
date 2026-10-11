@@ -53,6 +53,8 @@ The process is simple, but follow each step so nothing trips you up.
 One quick tip: finish the whole process in a single browser session. Clicking another affiliate link or clearing your cookies midway can remove the tracking that attaches your discount. If you do not see the discounted pricing, try an incognito window or a different browser.
  
 ## What Is Unbounce, and Who Is It For?
+
+<img width="1164" height="859" alt="unbounce landing page builder tool" src="https://github.com/user-attachments/assets/a75c3c75-7f29-4022-8c98-213c10f15d0b" />
  
 Unbounce is a popular landing page builder made for marketers, agencies, and small businesses that want more leads and sales from paid traffic. Instead of waiting on a developer, you build a page in the drag-and-drop builder, connect your forms, and publish. Free hosting and 100+ templates come with every plan, which removes a lot of setup work.
  
