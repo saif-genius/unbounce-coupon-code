@@ -5,7 +5,6 @@ If you are about to pay full price for Unbounce, pause for a moment. The right *
 Here is the quick version. Unbounce offers a 20% discount for the first 3 months on its monthly plan, which saves you $150 in total. If you choose annual billing instead, you get a 35% discount that saves you $1,045.80 over the year. Those totals are based on the Optimize plan, the top self-serve tier. Smaller plans save fewer dollars, but the percentages stay the same.
  
 So which option saves more money? The annual plan, by a wide margin. If you already know you will use the platform for a full year, paying annually is the wiser decision.
-
  
 You also don't have to copy, paste, or fumble with anything at checkout. The discount is applied through this exclusive partner link:
  
