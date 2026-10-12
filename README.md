@@ -1,6 +1,7 @@
 # Unbounce Coupon Code (Oct 2026): Get Up to 35% Discount + Free Trial
  
 If you are about to pay full price for Unbounce, pause for a moment. The right **[Unbounce coupon code](https://unbounce.partnerlinks.io/claim-exclusive-discount)** can take a real bite out of your bill, and the savings grow the longer you commit.
+
  
 Here is the quick version. Unbounce offers a 20% discount for the first 3 months on its monthly plan, which saves you $150 in total. If you choose annual billing instead, you get a 35% discount that saves you $1,045.80 over the year. Those totals are based on the Optimize plan, the top self-serve tier. Smaller plans save fewer dollars, but the percentages stay the same.
  
